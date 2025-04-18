@@ -81,8 +81,3 @@ text-decoration: underline;
     height: 100%;
     border: none;
 }
-
-.emphasizedText{
-    font-style: italic;
-    color: blue;
-}
